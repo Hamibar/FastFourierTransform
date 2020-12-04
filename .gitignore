@@ -1,0 +1,4 @@
+build
+minGW_build
+*.txt
+.vscode
